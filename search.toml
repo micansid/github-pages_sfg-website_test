@@ -5,7 +5,7 @@ html_selector = "section"
 [[input.files]]
 path = "pages/tischtennis_herren_1/index.html"
 url = "/pages/tischtennis_herren_1/"
-title = "Herren 1 - Bezirksoberliga"
+title = "1. Herren Mannschaft: Herren Bezirksliga Gruppe 2 S\u00fcd"
 
 [[input.files]]
 path = "pages/fussball_herren_sg1/index.html"
@@ -15,7 +15,7 @@ title = "Herren - SG Tegernseer Tal 1"
 [[input.files]]
 path = "pages/tischtennis_herren_2/index.html"
 url = "/pages/tischtennis_herren_2/"
-title = "Herren 2 - Bezirksklasse A Gruppe 4 Südost"
+title = "2. Herren Mannschaft: Herren Bezirksliga Gruppe 2 S\u00fcd"
 
 [[input.files]]
 path = "pages/fussball_herren_sg2/index.html"
@@ -25,7 +25,7 @@ title = "Herren - SG Tegernseer Tal 2"
 [[input.files]]
 path = "pages/tischtennis_herren_3/index.html"
 url = "/pages/tischtennis_herren_3/"
-title = "Herren 3 - Bezirksklasse B Gruppe 7 Südost-Ost"
+title = "3. Herren Mannschaft: Herren Bezirksklasse A Gruppe 4 S\u00fcdost"
 
 [[input.files]]
 path = "pages/fussball_senioren/index.html"
@@ -35,77 +35,82 @@ title = "Senioren"
 [[input.files]]
 path = "pages/fussball_b-jugend_sg1/index.html"
 url = "/pages/fussball_b-jugend_sg1/"
-title = "B-Jugend – 2006er und 2005er - SG Tegernseer Tal 1"
+title = "B-Jugend \u2013 2006er und 2007er - SG Tegernseer Tal 1"
 
 [[input.files]]
 path = "pages/tischtennis_herren_4/index.html"
 url = "/pages/tischtennis_herren_4/"
-title = "Herren 4 - Bezirksklasse B Gruppe 7 Südost-Ost"
+title = "4. Herren Mannschaft: Herren Bezirksklasse B Gruppe 7 S\u00fcdost-Ost"
 
 [[input.files]]
-path = "pages/fussball_c-jugend_sg1/index.html"
-url = "/pages/fussball_c-jugend_sg1/"
-title = "C-Jugend – 2008er und 2007er - SG Tegernseer Tal 1"
+path = "pages/fussball_b-jugend_sg2/index.html"
+url = "/pages/fussball_b-jugend_sg2/"
+title = "B-Jugend \u2013 2006er und 2007er - SG Tegernseer Tal 2"
 
 [[input.files]]
 path = "pages/tischtennis_herren_5/index.html"
 url = "/pages/tischtennis_herren_5/"
-title = "Herren 5 - Bezirksklasse B Gruppe 7 Südost-Ost (4er)"
+title = "5. Herren Mannschaft: Herren Bezirksklasse B Gruppe 7 S\u00fcdost-Ost"
 
 [[input.files]]
-path = "pages/fussball_c-jugend_sg2/index.html"
-url = "/pages/fussball_c-jugend_sg2/"
-title = "C-Jugend – 2008er und 2007er - SG Tegernseer Tal 2"
-
-[[input.files]]
-path = "pages/fussball_d-jugend_sg1/index.html"
-url = "/pages/fussball_d-jugend_sg1/"
-title = "D-Jugend – 2010er und 2009er - SG Tegernseer Tal 1"
+path = "pages/fussball_c-jugend_sg1/index.html"
+url = "/pages/fussball_c-jugend_sg1/"
+title = "C-Jugend \u2013 2008er und 2009er - SG Tegernseer Tal 1"
 
 [[input.files]]
 path = "pages/tischtennis_jugend_1/index.html"
 url = "/pages/tischtennis_jugend_1/"
-title = "Jugend 1 - Bezirksoberliga Oberbayern Süd"
+title = "1. Jugend Mannschaft: Jugend 19 Landesliga S\u00fcds\u00fcdwest"
 
 [[input.files]]
-path = "pages/fussball_d-jugend_sg2/index.html"
-url = "/pages/fussball_d-jugend_sg2/"
-title = "D-Jugend – 2010er und 2009er - SG Tegernseer Tal 2"
+path = "pages/fussball_d-jugend_sg1/index.html"
+url = "/pages/fussball_d-jugend_sg1/"
+title = "D-Jugend \u2013 2010er und 2011er - SG Tegernseer Tal 1"
 
 [[input.files]]
 path = "pages/tischtennis_jugend_2/index.html"
 url = "/pages/tischtennis_jugend_2/"
-title = "Jugend 2 - Bezirksliga Gruppe 2 Süd"
+title = "2. Jugend Mannschaft: Jugend 19 Bezirksklasse A Gruppe 4 S\u00fcdost"
+
+[[input.files]]
+path = "pages/fussball_d-jugend_sg2/index.html"
+url = "/pages/fussball_d-jugend_sg2/"
+title = "D-Jugend \u2013 2010er und 2011er - SG Tegernseer Tal 2"
+
+[[input.files]]
+path = "pages/tischtennis_jugend_3/index.html"
+url = "/pages/tischtennis_jugend_3/"
+title = "3. Jugend Mannschaft: Jugend 19 Bezirksklasse A Gruppe 4 S\u00fcdost"
 
 [[input.files]]
 path = "pages/fussball_d-jugend_sg3/index.html"
 url = "/pages/fussball_d-jugend_sg3/"
-title = "D-Jugend – 2010er und 2009er - SG Tegernseer Tal 3"
+title = "D-Jugend \u2013 2010er und 2011er - SG Tegernseer Tal 3"
 
 [[input.files]]
 path = "pages/fussball_e-jugend_e1/index.html"
 url = "/pages/fussball_e-jugend_e1/"
-title = "E-Jugend – 2012er und 2011er E1"
-
-[[input.files]]
-path = "pages/fussball_e-jugend_e2/index.html"
-url = "/pages/fussball_e-jugend_e2/"
-title = "E-Jugend – 2012er und 2011er E2"
+title = "E-Jugend \u2013 2012er und 2013er E1"
 
 [[input.files]]
 path = "pages/125_jahre_sportfreunde_gmund_duernbach/index.html"
 url = "/pages/125_jahre_sportfreunde_gmund_duernbach/"
-title = "125 Jahre Sportfreunde Gmund-Dürnbach 1899-2024"
+title = "125 Jahre Sportfreunde Gmund-D\u00fcrnbach 1899-2024"
 
 [[input.files]]
-path = "pages/fussball_f-jugend/index.html"
-url = "/pages/fussball_f-jugend/"
-title = "F-Jugend – 2014er und 2013"
+path = "pages/fussball_e-jugend_e2/index.html"
+url = "/pages/fussball_e-jugend_e2/"
+title = "E-Jugend \u2013 2012er und 2013er E2"
 
 [[input.files]]
-path = "pages/fussball_bambini/index.html"
-url = "/pages/fussball_bambini/"
-title = "BAMBINI – ab 4 Jahren"
+path = "pages/fussball_f-jugend_f1/index.html"
+url = "/pages/fussball_f-jugend_f1/"
+title = "F-Jugend \u2013 2014er und 2015 F1"
+
+[[input.files]]
+path = "pages/fussball_f-jugend_f2/index.html"
+url = "/pages/fussball_f-jugend_f2/"
+title = "F-Jugend \u2013 2014er und 2015 F2"
 
 [[input.files]]
 path = "pages/demo/index.html"
@@ -118,9 +123,14 @@ url = "/pages/404/"
 title = "Seite nicht gefunden"
 
 [[input.files]]
+path = "pages/fussball_bambini/index.html"
+url = "/pages/fussball_bambini/"
+title = "BAMBINI \u2013 ab 4 Jahren"
+
+[[input.files]]
 path = "pages/ausruestung/index.html"
 url = "/pages/ausruestung/"
-title = "Ausrüstung"
+title = "Ausr\u00fcstung"
 
 [[input.files]]
 path = "pages/badminton/index.html"
@@ -135,12 +145,12 @@ title = "Bogensport"
 [[input.files]]
 path = "pages/chronik/index.html"
 url = "/pages/chronik/"
-title = "Chronik der Sportfreunde Gmund Dürnbach"
+title = "Chronik der Sportfreunde Gmund D\u00fcrnbach"
 
 [[input.files]]
 path = "pages/datenschutzerklaerung/index.html"
 url = "/pages/datenschutzerklaerung/"
-title = "Datenschutzerklärung"
+title = "Datenschutzerkl\u00e4rung"
 
 [[input.files]]
 path = "pages/downloads/index.html"
@@ -150,7 +160,7 @@ title = "Formulare und Downloads"
 [[input.files]]
 path = "pages/eisschuetzen/index.html"
 url = "/pages/eisschuetzen/"
-title = "Eisschützen"
+title = "Eissch\u00fctzen"
 
 [[input.files]]
 path = "pages/events/index.html"
@@ -160,12 +170,12 @@ title = "Bevorstehende Veranstaltungen"
 [[input.files]]
 path = "pages/fussball/index.html"
 url = "/pages/fussball/"
-title = "Fußball"
+title = "Fu\u00dfball"
 
 [[input.files]]
 path = "pages/geschaeftsstelle/index.html"
 url = "/pages/geschaeftsstelle/"
-title = "Die Geschäftsstelle"
+title = "Die Gesch\u00e4ftsstelle"
 
 [[input.files]]
 path = "pages/gmunder_junior-hallencup/index.html"
@@ -243,14 +253,69 @@ url = "/pages/vorstandschaft/"
 title = "Vorstandschaft"
 
 [[input.files]]
+path = "2023/kinderfasching/index.html"
+url = "/2023/kinderfasching/"
+title = "Kinderfasching"
+
+[[input.files]]
+path = "2023/einladung_hauptversammlung2023/index.html"
+url = "/2023/einladung_hauptversammlung2023/"
+title = "Einladung zur Hauptversammlung"
+
+[[input.files]]
+path = "2023/ehrungen_2023/index.html"
+url = "/2023/ehrungen_2023/"
+title = "Ehrungen"
+
+[[input.files]]
+path = "2023/geldsegen_fuer_gmunder_tafel/index.html"
+url = "/2023/geldsegen_fuer_gmunder_tafel/"
+title = "Geldsegen f\u00fcr Gmunder Tafel"
+
+[[input.files]]
+path = "2022/ankuendigung_skilager_ehrwald/index.html"
+url = "/2022/ankuendigung_skilager_ehrwald/"
+title = "Ank\u00fcndigung Skilager Ehrwald"
+
+[[input.files]]
+path = "2022/fauglia_2022/index.html"
+url = "/2022/fauglia_2022/"
+title = "Fauglia 2022"
+
+[[input.files]]
+path = "2022/bezirkseinzelmeisterschaften_jugend/index.html"
+url = "/2022/bezirkseinzelmeisterschaften_jugend/"
+title = "Bezirkseinzelmeisterschaften Jugend"
+
+[[input.files]]
+path = "2022/die_saisonvorbereitung/index.html"
+url = "/2022/die_saisonvorbereitung/"
+title = "Die Saisonvorbereitung - Tischtennis"
+
+[[input.files]]
+path = "2022/turnen_mal_anders/index.html"
+url = "/2022/turnen_mal_anders/"
+title = "Turnen mal anders"
+
+[[input.files]]
+path = "2022/tegernseelauf_20222/index.html"
+url = "/2022/tegernseelauf_20222/"
+title = "Der Tegernseelauf - ein Highlight im Jahreskalender der Laufgruppe"
+
+[[input.files]]
+path = "2022/endlich_wieder_sommerfest/index.html"
+url = "/2022/endlich_wieder_sommerfest/"
+title = "Endlich wieder ein Sommerfest!"
+
+[[input.files]]
 path = "2022/sportfreunde_bieten_neue_sportart_jiu_jitsu/index.html"
 url = "/2022/sportfreunde_bieten_neue_sportart_jiu_jitsu/"
-title = "Sportfreunde bieten neue Sportart: Jiu-Jitsu – Selbstverteidigung für alle"
+title = "Sportfreunde bieten neue Sportart: Jiu-Jitsu \u2013 Selbstverteidigung f\u00fcr alle"
 
 [[input.files]]
 path = "2022/vereinsstueberl_sucht_neuen_paechter/index.html"
 url = "/2022/vereinsstueberl_sucht_neuen_paechter/"
-title = "Vereinsstüberl sucht neuen Pächter"
+title = "Vereinsst\u00fcberl sucht neuen P\u00e4chter"
 
 [[input.files]]
 path = "2022/lichterfest_am_samstag/index.html"
@@ -265,7 +330,7 @@ title = "Sixtus Lauf Schliersee 2022"
 [[input.files]]
 path = "2022/hauptversammlung_2022/index.html"
 url = "/2022/hauptversammlung_2022/"
-title = "Hauptversammlung SF Gmund-Dürnbach - Neue Vorstandschaft gewählt"
+title = "Hauptversammlung SF Gmund-D\u00fcrnbach - Neue Vorstandschaft gew\u00e4hlt"
 
 [[input.files]]
 path = "2022/einladung_hauptversammlung_2022/index.html"
@@ -290,12 +355,12 @@ title = "Sparte Turnen"
 [[input.files]]
 path = "2021/2021-07-14_anmeldung-für-fußballcamp-2021-gestartet!/index.html"
 url = "/2021/2021-07-14_anmeldung-für-fußballcamp-2021-gestartet!/"
-title = "Anmeldung für Fußballcamp 2021 gestartet!"
+title = "Anmeldung f\u00fcr Fu\u00dfballcamp 2021 gestartet!"
 
 [[input.files]]
 path = "2021/2021-06-09_re-start-der-fußballjugend/index.html"
 url = "/2021/2021-06-09_re-start-der-fußballjugend/"
-title = "RE-START DER FUßBALLJUGEND"
+title = "RE-START DER FU\u00dfBALLJUGEND"
 
 [[input.files]]
 path = "2021/2021-01-08_technische-fehler-nach-materialwechsel/index.html"
@@ -305,12 +370,12 @@ title = "Technische Fehler nach Materialwechsel"
 [[input.files]]
 path = "2021/2021-01-07_baer-verpasst-zweiten-durchgang-ausgerechnet-im-wettkampf-hakt’s/index.html"
 url = "/2021/2021-01-07_baer-verpasst-zweiten-durchgang-ausgerechnet-im-wettkampf-hakt’s/"
-title = "Baer verpasst zweiten Durchgang: Ausgerechnet im Wettkampf hakt’s"
+title = "Baer verpasst zweiten Durchgang: Ausgerechnet im Wettkampf hakt\u2019s"
 
 [[input.files]]
 path = "2020/2020-12-09_sf-gmund-prominenter-besuch-als-jahreshöhepunkt/index.html"
 url = "/2020/2020-12-09_sf-gmund-prominenter-besuch-als-jahreshöhepunkt/"
-title = "SF Gmund: Prominenter Besuch als Jahreshöhepunkt"
+title = "SF Gmund: Prominenter Besuch als Jahresh\u00f6hepunkt"
 
 [[input.files]]
 path = "2020/2020-11-07_7112020-skispringer-baer-hat-heim-wm-im-blick/index.html"
@@ -340,7 +405,7 @@ title = "4. Sieg in Folge der C1"
 [[input.files]]
 path = "2020/2020-10-08_4-spieltag-der-fußballjugend/index.html"
 url = "/2020/2020-10-08_4-spieltag-der-fußballjugend/"
-title = "4. Spieltag der Fußballjugend"
+title = "4. Spieltag der Fu\u00dfballjugend"
 
 [[input.files]]
 path = "2020/2020-10-06_endlich-wieder-tischtennistraining/index.html"
@@ -355,7 +420,7 @@ title = "Ergebnisse des 3. Spieltags"
 [[input.files]]
 path = "2020/2020-10-02_3-spieltag-der-fußballjugend-–-heimspiel-der-herren/index.html"
 url = "/2020/2020-10-02_3-spieltag-der-fußballjugend-–-heimspiel-der-herren/"
-title = "3. Spieltag der Fußballjugend – Heimspiel der Herren"
+title = "3. Spieltag der Fu\u00dfballjugend \u2013 Heimspiel der Herren"
 
 [[input.files]]
 path = "2020/2020-09-25_2-spieltag-der-nachwuchskicker/index.html"
@@ -370,7 +435,7 @@ title = "Nachwuchskicker feiern Saisonstart mit 29 Toren"
 [[input.files]]
 path = "2020/2020-09-16_endlich-wieder-fußball!/index.html"
 url = "/2020/2020-09-16_endlich-wieder-fußball!/"
-title = "Endlich wieder Fußball!"
+title = "Endlich wieder Fu\u00dfball!"
 
 [[input.files]]
 path = "2020/2020-05-16_wiederaufnahme-des-sportbetriebs/index.html"
@@ -400,7 +465,7 @@ title = "1. Jugend-Badminton-Tegernsee Cup 2020"
 [[input.files]]
 path = "2020/2020-01-31_„der-tegernsee“-fliegt„/index.html"
 url = "/2020/2020-01-31_„der-tegernsee“-fliegt„/"
-title = "„Der Tegernsee“ fliegt„"
+title = "\u201eDer Tegernsee\u201c fliegt\u201e"
 
 [[input.files]]
 path = "2019/2019-12-29_aus-dem-tegernseer-tal-auf-die-skisprungschanze/index.html"
@@ -425,12 +490,12 @@ title = "Skilager Ehrwald 2020 voll"
 [[input.files]]
 path = "2019/2019-10-18_anmeldung-für-den-5-gmunder-junior-hallencup-gestartet/index.html"
 url = "/2019/2019-10-18_anmeldung-für-den-5-gmunder-junior-hallencup-gestartet/"
-title = "Anmeldung für den 5. Gmunder Junior-Hallencup gestartet"
+title = "Anmeldung f\u00fcr den 5. Gmunder Junior-Hallencup gestartet"
 
 [[input.files]]
 path = "2019/2019-09-19_unterstützung-für-kinderturnen-gesucht/index.html"
 url = "/2019/2019-09-19_unterstützung-für-kinderturnen-gesucht/"
-title = "Unterstützung für Kinderturnen gesucht"
+title = "Unterst\u00fctzung f\u00fcr Kinderturnen gesucht"
 
 [[input.files]]
 path = "2019/2019-03-05_neuwahlen-bei-der-hauptversammlung-am-15319/index.html"
@@ -450,7 +515,7 @@ title = "Wechsel in der Leitung der Sparte Tischtennis"
 [[input.files]]
 path = "2019/2019-02-12_4-gmunder-junior-hallencup-–-ein-großer-erfolg/index.html"
 url = "/2019/2019-02-12_4-gmunder-junior-hallencup-–-ein-großer-erfolg/"
-title = "4. Gmunder Junior-Hallencup – ein großer Erfolg"
+title = "4. Gmunder Junior-Hallencup \u2013 ein gro\u00dfer Erfolg"
 
 [[input.files]]
 path = "2019/2019-01-18_tischtennis/index.html"
@@ -465,7 +530,7 @@ title = "Vereinsportrait von SAT.1 Bayern"
 [[input.files]]
 path = "2018/erfolgreicher_rückblick_auf_die_laufgruppe/index.html"
 url = "/2018/erfolgreicher_rückblick_auf_die_laufgruppe/"
-title = "Erfolgreicher Rückblick auf die Laufgruppe"
+title = "Erfolgreicher R\u00fcckblick auf die Laufgruppe"
 
 [[input.files]]
 path = "2018/2018-12-03_erfolgreiche-erste-badminton-vereinsmeisterschaft/index.html"
@@ -475,17 +540,17 @@ title = "Erfolgreiche erste Badminton-Vereinsmeisterschaft"
 [[input.files]]
 path = "2018/2018-11-23_maxi-hahn-–-ein-fußballheld/index.html"
 url = "/2018/2018-11-23_maxi-hahn-–-ein-fußballheld/"
-title = "Maxi Hahn – Ein Fußballheld"
+title = "Maxi Hahn \u2013 Ein Fu\u00dfballheld"
 
 [[input.files]]
 path = "2018/2018-11-20_sparte-laufen-erfolgreicher-rückblick-auf-die-laufgruppe/index.html"
 url = "/2018/2018-11-20_sparte-laufen-erfolgreicher-rückblick-auf-die-laufgruppe/"
-title = "Sparte Laufen: Erfolgreicher Rückblick auf die Laufgruppe"
+title = "Sparte Laufen: Erfolgreicher R\u00fcckblick auf die Laufgruppe"
 
 [[input.files]]
 path = "2018/2018-11-19_skilager-vom-2-bis-6-januar-2019-–-anmeldung-möglich/index.html"
 url = "/2018/2018-11-19_skilager-vom-2-bis-6-januar-2019-–-anmeldung-möglich/"
-title = "Skilager vom 2. bis 6. Januar 2019 – Anmeldung möglich"
+title = "Skilager vom 2. bis 6. Januar 2019 \u2013 Anmeldung m\u00f6glich"
 
 [[input.files]]
 path = "2018/2018-11-08_jugendleiter-maxi-hahn-vom-bfv-ausgezeichnet/index.html"
@@ -510,7 +575,7 @@ title = "Volksfesteinzug 2018"
 [[input.files]]
 path = "2018/2018-03-23_hauptversammlung-am-22-märz-2018/index.html"
 url = "/2018/2018-03-23_hauptversammlung-am-22-märz-2018/"
-title = "Hauptversammlung am 22. März 2018"
+title = "Hauptversammlung am 22. M\u00e4rz 2018"
 
 [[input.files]]
 path = "2018/2018-03-20_ski-nordisch-neue-belebung-mit-ski-langlauf/index.html"
@@ -520,17 +585,17 @@ title = "Ski Nordisch: Neue Belebung mit Ski-Langlauf"
 [[input.files]]
 path = "2018/2018-02-22_einladung-zur-hauptversammlung-am-22-märz-2018/index.html"
 url = "/2018/2018-02-22_einladung-zur-hauptversammlung-am-22-märz-2018/"
-title = "Einladung zur Hauptversammlung am 22. März 2018"
+title = "Einladung zur Hauptversammlung am 22. M\u00e4rz 2018"
 
 [[input.files]]
 path = "2018/2018-02-21_bogenschützen-zielen-auf-eigene-hütte-ab/index.html"
 url = "/2018/2018-02-21_bogenschützen-zielen-auf-eigene-hütte-ab/"
-title = "Bogenschützen zielen auf eigene Hütte ab"
+title = "Bogensch\u00fctzen zielen auf eigene H\u00fctte ab"
 
 [[input.files]]
 path = "2018/2018-02-21_fußballcamp-in-den-sommerferien/index.html"
 url = "/2018/2018-02-21_fußballcamp-in-den-sommerferien/"
-title = "Fußballcamp in den Sommerferien"
+title = "Fu\u00dfballcamp in den Sommerferien"
 
 [[input.files]]
 path = "2018/2018-01-15_ortsmeisterschaft-gmund-2017/index.html"
@@ -560,12 +625,12 @@ title = "Skispringer Moritz Baer auf Sprung in Weltcup"
 [[input.files]]
 path = "2017/2017-10-29_sf-gmund-dürnbach-sucht-den-neuen-timo-boll/index.html"
 url = "/2017/2017-10-29_sf-gmund-dürnbach-sucht-den-neuen-timo-boll/"
-title = "SF Gmund-Dürnbach sucht den neuen Timo Boll"
+title = "SF Gmund-D\u00fcrnbach sucht den neuen Timo Boll"
 
 [[input.files]]
 path = "2017/2017-10-25_großer-spaß-für-den-nachwuchs-und-ein-lehrreicher-vortrag-für-vereinstrainer/index.html"
 url = "/2017/2017-10-25_großer-spaß-für-den-nachwuchs-und-ein-lehrreicher-vortrag-für-vereinstrainer/"
-title = "Großer Spaß für den Nachwuchs und ein lehrreicher Vortrag für Vereinstrainer:"
+title = "Gro\u00dfer Spa\u00df f\u00fcr den Nachwuchs und ein lehrreicher Vortrag f\u00fcr Vereinstrainer:"
 
 [[input.files]]
 path = "2017/2017-07-26_powergymnastik-kurs-und-yoga-werden-fortgesetzt/index.html"
@@ -585,7 +650,7 @@ title = "U11 erfolgreich beim top-besetzten Hohenthanner Junior Cup 2017"
 [[input.files]]
 path = "2017/2017-06-26_lichterfest-2017-–-eine-großartige-veranstaltung/index.html"
 url = "/2017/2017-06-26_lichterfest-2017-–-eine-großartige-veranstaltung/"
-title = "Lichterfest 2017 – Eine großartige Veranstaltung"
+title = "Lichterfest 2017 \u2013 Eine gro\u00dfartige Veranstaltung"
 
 [[input.files]]
 path = "2017/2017-06-08_tischtennis-spartenversammlung-vom-27-mai-2017/index.html"
@@ -595,7 +660,7 @@ title = "Tischtennis-Spartenversammlung vom 27. Mai 2017"
 [[input.files]]
 path = "2017/2017-05-17_road-to-warngau-–-e1-bereits-in-runde-3-des-merkur-cups/index.html"
 url = "/2017/2017-05-17_road-to-warngau-–-e1-bereits-in-runde-3-des-merkur-cups/"
-title = "Road to Warngau – E1 bereits in Runde 3 des Merkur Cups"
+title = "Road to Warngau \u2013 E1 bereits in Runde 3 des Merkur Cups"
 
 [[input.files]]
 path = "2017/2017-04-30_badminton-tegernsee-cup-2017-ein-voller-erfolg/index.html"
@@ -615,12 +680,12 @@ title = "Moritz Baer will in den Weltcup reinschnuppern"
 [[input.files]]
 path = "2017/2017-03-19_badminton-tegernseecup-2017-–-das-zweite-hobby-turnier-am-29-april/index.html"
 url = "/2017/2017-03-19_badminton-tegernseecup-2017-–-das-zweite-hobby-turnier-am-29-april/"
-title = "Badminton: TegernseeCup 2017 – das zweite Hobby-Turnier am 29. April"
+title = "Badminton: TegernseeCup 2017 \u2013 das zweite Hobby-Turnier am 29. April"
 
 [[input.files]]
 path = "2017/2017-03-11_einladung-zur-hauptversammlung-am-donnerstag,-23-märz-2017/index.html"
 url = "/2017/2017-03-11_einladung-zur-hauptversammlung-am-donnerstag,-23-märz-2017/"
-title = "Einladung zur Hauptversammlung am Donnerstag, 23. März 2017"
+title = "Einladung zur Hauptversammlung am Donnerstag, 23. M\u00e4rz 2017"
 
 [[input.files]]
 path = "2017/2017-03-10_begeisternde-tischtennis-minimeisterschaften/index.html"
@@ -630,22 +695,22 @@ title = "Begeisternde Tischtennis-Minimeisterschaften"
 [[input.files]]
 path = "2017/2017-03-10_gmunder-bogenschützen-schnuppern-erstmals-turnierluft/index.html"
 url = "/2017/2017-03-10_gmunder-bogenschützen-schnuppern-erstmals-turnierluft/"
-title = "Gmunder Bogenschützen schnuppern erstmals Turnierluft"
+title = "Gmunder Bogensch\u00fctzen schnuppern erstmals Turnierluft"
 
 [[input.files]]
 path = "2017/2017-03-10_hochklassige-premiere-für-gmunder-tt-turnier/index.html"
 url = "/2017/2017-03-10_hochklassige-premiere-für-gmunder-tt-turnier/"
-title = "Hochklassige Premiere für Gmunder TT-Turnier"
+title = "Hochklassige Premiere f\u00fcr Gmunder TT-Turnier"
 
 [[input.files]]
 path = "2017/2017-01-10_sf-gmund-dürnbach-sucht-den-neuen-timo-boll/index.html"
 url = "/2017/2017-01-10_sf-gmund-dürnbach-sucht-den-neuen-timo-boll/"
-title = "SF Gmund-Dürnbach sucht den neuen Timo Boll"
+title = "SF Gmund-D\u00fcrnbach sucht den neuen Timo Boll"
 
 [[input.files]]
 path = "2017/2017-01-06_neujahrsempfang-am-drei-königs-tag/index.html"
 url = "/2017/2017-01-06_neujahrsempfang-am-drei-königs-tag/"
-title = "Neujahrsempfang am Drei-Königs-Tag"
+title = "Neujahrsempfang am Drei-K\u00f6nigs-Tag"
 
 [[input.files]]
 path = "2017/2017-01-03_sportfreunde-bieten-fortsetzung-von-powergymnastik-kurs/index.html"
@@ -655,12 +720,12 @@ title = "Sportfreunde bieten Fortsetzung von Powergymnastik-Kurs"
 [[input.files]]
 path = "2016/2016-12-23_tt-ortsmeisterschaft-2016-–-sieger-roland-thiemt/index.html"
 url = "/2016/2016-12-23_tt-ortsmeisterschaft-2016-–-sieger-roland-thiemt/"
-title = "TT-Ortsmeisterschaft 2016 – Sieger Roland Thiemt"
+title = "TT-Ortsmeisterschaft 2016 \u2013 Sieger Roland Thiemt"
 
 [[input.files]]
 path = "2016/2016-12-21_2-gmunder-junior-hallencup-ein-großer-erfolg/index.html"
 url = "/2016/2016-12-21_2-gmunder-junior-hallencup-ein-großer-erfolg/"
-title = "2. Gmunder Junior-Hallencup ein großer Erfolg"
+title = "2. Gmunder Junior-Hallencup ein gro\u00dfer Erfolg"
 
 [[input.files]]
 path = "2016/2016-12-08_tischtennis-jugend-stellt-sich-neu-auf/index.html"
@@ -685,7 +750,7 @@ title = "Anmeldung zum Skilager Ehrwald"
 [[input.files]]
 path = "2016/2016-10-11_ausflug-der-sparte-bogenschießen-zur-dm/index.html"
 url = "/2016/2016-10-11_ausflug-der-sparte-bogenschießen-zur-dm/"
-title = "Ausflug der Sparte Bogenschießen zur DM"
+title = "Ausflug der Sparte Bogenschie\u00dfen zur DM"
 
 [[input.files]]
 path = "2016/2016-10-09_2-gmunder-junior-hallencup-am-3-und-4-dezember-2016/index.html"
@@ -705,7 +770,7 @@ title = "NEU: Sportfreunde bieten Aerobic-Kurs an"
 [[input.files]]
 path = "2016/2016-08-08_tischtennis-termine-für-die-neue-saison-(erwachsene)/index.html"
 url = "/2016/2016-08-08_tischtennis-termine-für-die-neue-saison-(erwachsene)/"
-title = "Tischtennis: Termine für die neue Saison (Erwachsene)"
+title = "Tischtennis: Termine f\u00fcr die neue Saison (Erwachsene)"
 
 [[input.files]]
 path = "2016/2016-08-03_tischtennis-sommerfest/index.html"
@@ -715,12 +780,12 @@ title = "Tischtennis Sommerfest"
 [[input.files]]
 path = "2016/2016-07-25_tischtennis-–-jugendvereinsmeisterschaft-am-247/index.html"
 url = "/2016/2016-07-25_tischtennis-–-jugendvereinsmeisterschaft-am-247/"
-title = "Tischtennis – Jugendvereinsmeisterschaft am 24.7."
+title = "Tischtennis \u2013 Jugendvereinsmeisterschaft am 24.7."
 
 [[input.files]]
 path = "2016/2016-07-12_10-für-ein-willkommen/index.html"
 url = "/2016/2016-07-12_10-für-ein-willkommen/"
-title = "1:0 für ein Willkommen"
+title = "1:0 f\u00fcr ein Willkommen"
 
 [[input.files]]
 path = "2016/2016-07-12_lichterfest-2016/index.html"
@@ -735,7 +800,7 @@ title = "Tischtennis: Jugend-Vereinsmeisterschaft am 24. Juli"
 [[input.files]]
 path = "2016/2016-05-30_sportfreunde-folgen-einladung-zur-volksfest-eröffnung/index.html"
 url = "/2016/2016-05-30_sportfreunde-folgen-einladung-zur-volksfest-eröffnung/"
-title = "Sportfreunde folgen Einladung zur Volksfest-Eröffnung"
+title = "Sportfreunde folgen Einladung zur Volksfest-Er\u00f6ffnung"
 
 [[input.files]]
 path = "2016/2016-05-19_nachbericht-zu-den-derbys-am-pfingstwochenende/index.html"
@@ -750,12 +815,12 @@ title = "Wichtiger Sieg gegen den TSV Hartpenning 2"
 [[input.files]]
 path = "2016/2016-05-11_einweisung-in-die-neue-homepage-für-die-sparte-fußball/index.html"
 url = "/2016/2016-05-11_einweisung-in-die-neue-homepage-für-die-sparte-fußball/"
-title = "Einweisung in die neue Homepage für die Sparte Fußball"
+title = "Einweisung in die neue Homepage f\u00fcr die Sparte Fu\u00dfball"
 
 [[input.files]]
 path = "2016/2016-05-10_sportfreunde-gratulieren-günter-becker-zum-80sten/index.html"
 url = "/2016/2016-05-10_sportfreunde-gratulieren-günter-becker-zum-80sten/"
-title = "Sportfreunde gratulieren Günter Becker zum 80sten"
+title = "Sportfreunde gratulieren G\u00fcnter Becker zum 80sten"
 
 [[input.files]]
 path = "2016/2016-05-06_tischtennis-relegation-herren-4-scheitert-an-djk-darching/index.html"
@@ -780,7 +845,7 @@ title = ""
 [[input.files]]
 path = "2016/2016-04-26_spende-überarbeitetes-logo-für-die-sportfreunde/index.html"
 url = "/2016/2016-04-26_spende-überarbeitetes-logo-für-die-sportfreunde/"
-title = "Spende: Überarbeitetes Logo für die Sportfreunde"
+title = "Spende: \u00dcberarbeitetes Logo f\u00fcr die Sportfreunde"
 
 [[input.files]]
 path = "2016/2016-04-26_tischtennis-1-jugend-verzichtet-auf-aufstiegsturnier-zur-bayernliga/index.html"
@@ -795,7 +860,7 @@ title = "Schlag doch mal wieder zu!"
 [[input.files]]
 path = "2016/2016-04-22_seniorengymnastik-–-fit-im-alter/index.html"
 url = "/2016/2016-04-22_seniorengymnastik-–-fit-im-alter/"
-title = "Seniorengymnastik – Fit im Alter"
+title = "Seniorengymnastik \u2013 Fit im Alter"
 
 [[input.files]]
 path = "2016/2016-04-15_hauptversammlung-2016/index.html"
@@ -810,7 +875,7 @@ title = "1. Gmunder Junior-Hallencup am 27. und 28. Februar 2016"
 [[input.files]]
 path = "2016/2016-04-02_schulung-für-neue-webseite/index.html"
 url = "/2016/2016-04-02_schulung-für-neue-webseite/"
-title = "Schulung für neue Webseite"
+title = "Schulung f\u00fcr neue Webseite"
 
 [[input.files]]
 path = "2016/2016-02-26_bogensport-erstes-hallenturnier/index.html"
@@ -820,7 +885,7 @@ title = "Bogensport: Erstes Hallenturnier"
 [[input.files]]
 path = "2015/2015-11-08_sportfreunde-begrüßen-1000-mitglied/index.html"
 url = "/2015/2015-11-08_sportfreunde-begrüßen-1000-mitglied/"
-title = "Sportfreunde begrüßen 1000. Mitglied"
+title = "Sportfreunde begr\u00fc\u00dfen 1000. Mitglied"
 
 [[input.files]]
 path = "2015/2015-10-26_bogensport-ende-der-freiluftsaison-mit-vereinsmeisterschaft/index.html"
@@ -830,4 +895,4 @@ title = "Bogensport: Ende der Freiluftsaison mit Vereinsmeisterschaft"
 [[input.files]]
 path = "2015/2015-04-26_bogensport-das-triple-für-balthasar-gaisreiter/index.html"
 url = "/2015/2015-04-26_bogensport-das-triple-für-balthasar-gaisreiter/"
-title = "Bogensport: Das Triple für Balthasar Gaisreiter"
+title = "Bogensport: Das Triple f\u00fcr Balthasar Gaisreiter"
